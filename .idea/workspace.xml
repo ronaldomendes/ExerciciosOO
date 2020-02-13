@@ -15,6 +15,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Class" />
       </list>
     </option>
@@ -37,13 +38,65 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
-  <component name="RunManager">
-    <configuration name="Exercicio01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="exercicio01.Exercicio01" />
+  <component name="RunManager" selected="Application.Exercicio06">
+    <configuration name="Exercicio02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exercicio02.Exercicio02" />
       <module name="ExerciciosOO" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="exercicio01.*" />
+          <option name="PATTERN" value="exercicio02.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Exercicio03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exercicio03.Exercicio03" />
+      <module name="ExerciciosOO" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="exercicio03.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Exercicio04" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exercicio04.Exercicio04" />
+      <module name="ExerciciosOO" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="exercicio04.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Exercicio05" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exercicio05.Exercicio05" />
+      <module name="ExerciciosOO" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="exercicio05.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Exercicio06" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="exercicio06.Exercicio06" />
+      <module name="ExerciciosOO" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="exercicio06.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -53,7 +106,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Exercicio01" />
+        <item itemvalue="Application.Exercicio06" />
+        <item itemvalue="Application.Exercicio05" />
+        <item itemvalue="Application.Exercicio04" />
+        <item itemvalue="Application.Exercicio03" />
+        <item itemvalue="Application.Exercicio02" />
       </list>
     </recent_temporary>
   </component>
@@ -71,10 +128,26 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="488" y="81" key="#com.intellij.ide.util.MemberChooser" timestamp="1581528713375">
+    <state x="488" y="81" key="#com.intellij.ide.util.MemberChooser" timestamp="1581609099320">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="488" y="81" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1581528713375" />
+    <state x="488" y="81" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728@0.0.1366.728" timestamp="1581609099320" />
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom" timestamp="1581609585994">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1581609585994" />
+    <state width="1323" height="179" key="GridCell.Tab.0.center" timestamp="1581609585994">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1581609585994" />
+    <state width="1323" height="179" key="GridCell.Tab.0.left" timestamp="1581609585994">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1581609585994" />
+    <state width="1323" height="179" key="GridCell.Tab.0.right" timestamp="1581609585994">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="179" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1581609585994" />
     <state x="200" y="24" key="SettingsEditor" timestamp="1581469433369">
       <screen x="47" y="24" width="1319" height="744" />
     </state>
@@ -87,5 +160,9 @@
       <screen x="47" y="24" width="1319" height="744" />
     </state>
     <state x="370" y="168" width="672" height="677" key="run.anything.popup/47.24.1319.744@47.24.1319.744" timestamp="1581472381099" />
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup" timestamp="1581608787848">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="346" y="49" width="672" height="678" key="search.everywhere.popup/0.0.1366.728@0.0.1366.728" timestamp="1581608787848" />
   </component>
 </project>
